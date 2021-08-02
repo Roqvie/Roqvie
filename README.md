@@ -10,3 +10,7 @@
 - **Twith chat for IRL**: Twitch chat for Samsung Wearable devices
 - **Muic**: Discord bot for listening music from VK (closed)
 - **Play Video In Console**: console script for view videos in terminal by ASCII-transformation
+
+#### Technologies
+- Python
+- Django, DRF
