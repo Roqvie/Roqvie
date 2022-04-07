@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/username.gif" width="350"/>
-  ### Contacts:
-  <div>
+  <div align="center">
     <a href="https://t.me/ROQVIE"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/telegram.png" width="40" height="40" alt="Telegram"/></a>
     <a href="mailto:work@roqvie.xyz"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/google-plus.png" width="40" height="40" alt="Telegram"/></a>
     <a href="https://vk.com/roqvie"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/vk.png" width="40" height="40" alt="VK"/></a>
