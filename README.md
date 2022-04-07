@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/username.gif" width="350"/>
+  Hi there 👋
+  You can reach me:
   <div align="center">
     <a href="https://t.me/ROQVIE"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/telegram-logo.png" width="40" height="40" alt="Telegram"/></a>
     <a href="mailto:work@roqvie.xyz"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/google-plus.png" width="40" height="40" alt="Telegram"/></a>
@@ -8,7 +10,7 @@
   </div>
 </div>
 
-### Hi there 👋
+
 
 #### About me
 - I’m currently learning Python as main programming language
