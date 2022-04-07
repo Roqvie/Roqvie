@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/username.gif" width="350"/>
-  Hi there 👋
-  You can reach me:
   <div align="center">
     <a href="https://t.me/ROQVIE"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/telegram-logo.png" width="40" height="40" alt="Telegram"/></a>
     <a href="mailto:work@roqvie.xyz"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/google-plus.png" width="40" height="40" alt="Telegram"/></a>
@@ -10,13 +8,11 @@
   </div>
 </div>
 
-
-
-#### About me
+### 📄 About me
 - I’m currently learning Python as main programming language
 - Interested in: Web Technologies and Information Security
 
-#### Languages and Tools
+### 🛠️ Languages and Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
@@ -31,8 +27,9 @@
 </div>
 
 
-#### My projects
+### My projects
 - **Twith chat for IRL**: Twitch chat for Samsung Wearable devices [📎](https://github.com/Roqvie/Twitch-Chat-for-IRL)
-- **Muic**: Discord bot for listening music from VK (closed)
+- **Muic**: Discord bot for listening music
 - **Eventer**: Discord bot for creating and moderating community events in your servers
 - **Play Video In Console**: console script for view videos in terminal by ASCII-transformation [📎](https://github.com/Roqvie/Play-Video-In-Console)
+- **Trigger Streisand effect**: kit of scripts for setup VPN, Tor bridge, Proxy server and etc.
