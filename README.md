@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/download%20(2).gif" width="300"/>
+</div>
+
 ### Hi there 👋
 
 #### About me
