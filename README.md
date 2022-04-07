@@ -3,7 +3,6 @@
 #### About me
 - I’m currently learning Python as main programming language
 - Interested in: Web Technologies and Information Security
-- How to reach me: Telegram - [@ROQVIE](https://t.me/ROQVIE), Email - work@roqvie.xyz
 
 #### Reach me
 <div>
