@@ -8,7 +8,7 @@
 #### Reach me
 <div>
   <a href="https://t.me/ROQVIE"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/telegram.png" width="40" height="40" alt="Telegram"/></a>
-  <a href="https://t.me/ROQVIE"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/google-plus.png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:work@roqvie.xyz"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/google-plus.png" width="40" height="40" alt="Telegram"/></a>
   <a href="https://vk.com/roqvie"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/vk.png" width="40" height="40" alt="VK"/></a>
   <a href="https://discordapp.com/users/394432825568395264/"><img src="https://raw.githubusercontent.com/Roqvie/Roqvie/main/discord.png" width="40" height="40" alt="Discord"/></a>
 </div>
