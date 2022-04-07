@@ -11,7 +11,7 @@
 
 ### 📄 About me
 - I’m currently learning Python as main programming language
-- Interested in: Web Technologies and Information Security
+- Interested in: Web Technologies and Cybersecurity
 
 ### 🛠️ Languages and Tools
 <div>
