@@ -29,7 +29,7 @@
 
 ### 🚧 Projects
 
-<a href="https://github.com/Roqvie/trigger-streisand-effect">
+<a href="https://github.com/Roqvie/triggerStreisandEffect">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=trigger-streisand-effect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
 </a>
 <a href="https://github.com/Roqvie/Eventer">
