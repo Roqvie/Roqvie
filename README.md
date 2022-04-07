@@ -31,15 +31,14 @@
 <a href="https://github.com/Roqvie/trigger-streisand-effect">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=trigger-streisand-effect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
 </a>
-<a href="https://github.com/Roqvie/Play-Video-In-Console">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=Play-Video-In-Console&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
+<a href="https://github.com/Roqvie/Eventer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=Eventer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
 </a>
 <a href="https://github.com/Roqvie/Twitch-Chat-for-IRL">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=Twitch-Chat-for-IRL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
 </a>
-<a href="https://github.com/Roqvie/Eventer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=Eventer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
-</a>
+
+
 
 ### 📊 My stats 
 <a href="https://github.com/Roqvie/Roqvie">
