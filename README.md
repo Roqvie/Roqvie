@@ -33,3 +33,8 @@
 - **Eventer**: Discord bot for creating and moderating community events in your servers <img src="https://img.shields.io/github/commit-activity/y/Roqvie/Eventer?style=flat-square" />
 - **Play Video In Console**: console script for view videos in terminal by ASCII-transformation [📎](https://github.com/Roqvie/Play-Video-In-Console) <img src="https://img.shields.io/github/commit-activity/y/Roqvie/Play-Video-In-Console?style=flat-square" />
 - **Trigger Streisand effect**: kit of scripts for setup VPN, Tor bridge, Proxy server and etc.  <img src="https://img.shields.io/github/commit-activity/y/Roqvie/trigger-streisand-effect?style=flat-square" />
+
+
+<a href="https://github.com/Roqvie/Roqvie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roqvie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
