@@ -26,13 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>   
 </div>
 
-### 📊 My stats 
-<a href="https://github.com/Roqvie/Roqvie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roqvie&hide=css,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_border=1" />
-</a>
-<a href="https://github.com/Roqvie/Roqvie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roqvie&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" alt="Roqvie GitHub Stats" />
-</a>
+### 🚧 My projects
+
 <a href="https://github.com/Roqvie/trigger-streisand-effect">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=trigger-streisand-effect&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
 </a>
@@ -44,4 +39,12 @@
 </a>
 <a href="https://github.com/Roqvie/Eventer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roqvie&repo=Eventer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" />
+</a>
+
+### 📊 My stats 
+<a href="https://github.com/Roqvie/Roqvie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roqvie&hide=css,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_border=1" />
+</a>
+<a href="https://github.com/Roqvie/Roqvie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roqvie&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=1" alt="Roqvie GitHub Stats" />
 </a>
