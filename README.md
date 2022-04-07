@@ -27,7 +27,7 @@
 </div>
 
 
-### My projects
+### 🚧 My projects
 - **Twith chat for IRL**: Twitch chat for Samsung Wearable devices [📎](https://github.com/Roqvie/Twitch-Chat-for-IRL)
 - **Muic**: Discord bot for listening music
 - **Eventer**: Discord bot for creating and moderating community events in your servers
