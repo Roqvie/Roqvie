@@ -28,7 +28,7 @@
 
 
 ### 🚧 My projects
-- **Twith chat for IRL**: Twitch chat for Samsung Wearable devices [📎](https://github.com/Roqvie/Twitch-Chat-for-IRL)
+- **Twith chat for IRL**: Twitch chat for Samsung Wearable devices [📎](https://github.com/Roqvie/Twitch-Chat-for-IRL) <img src="https://img.shields.io/github/commit-activity/y/Roqvie/Twitch-Chat-for-IRL?style=flat-square" />
 - **Muic**: Discord bot for listening music
 - **Eventer**: Discord bot for creating and moderating community events in your servers
 - **Play Video In Console**: console script for view videos in terminal by ASCII-transformation [📎](https://github.com/Roqvie/Play-Video-In-Console)
